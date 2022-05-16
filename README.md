@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @shaizm
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning more of it.
